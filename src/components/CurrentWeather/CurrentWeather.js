@@ -8,7 +8,6 @@ const CurrentWeather = () => {
 	        "method": "GET",
 	        "headers": {
 		        "x-rapidapi-key": process.env.REACT_APP_API_KEY,
-		        // "x-rapidapi-key": "9ee0c3c06fmshaa5c5186c06c6f7p187153jsn54243b17206e",
                 "x-rapidapi-host": "community-open-weather-map.p.rapidapi.com"
 	        }
         })
