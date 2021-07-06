@@ -34,7 +34,7 @@ Not yet implemented.
 
 ## Progress 
 
-The app is in its very early states, data cannot yet be displayed. 
+The app is in its very early stages, data cannot yet be displayed. 
 
 
 ## Author 
